@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "547324324930",
+    "project_id": "my-portable-story",
+    "storage_bucket": "my-portable-story.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547324324930:android:e68397344e3a98e5ebd1db",
+        "android_client_info": {
+          "package_name": "com.app.mps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547324324930-3eibl4latna4b9fd8ielkjvj8cbl47o3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMIoaOsrwNs4gl9KAn6iVprTupAszGIk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547324324930-3eibl4latna4b9fd8ielkjvj8cbl47o3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
